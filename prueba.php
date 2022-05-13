@@ -9,9 +9,10 @@
 </head>
 <body>
     <H1>PRUEBA EN GITHUB DE LA TAREA N° 5</H1>
-    <H2>INGENIERÍA DE SOFTWARE 2</H2>
-    <H3>GRUPO N° 2</H3>
-    <H4>INTEGRANTES:</H4>
+    <h2>Carrera: Ingeniería en Sistemas</h2>
+    <h3> Materia:INGENIERÍA DE SOFTWARE 2</h3>
+    <h4>GRUPO N° 2</h4>
+    <h5>INTEGRANTES:</h5>
     <P>JOSÉ MILTON GUARDIA MAMANI</P>
     
 </body>
